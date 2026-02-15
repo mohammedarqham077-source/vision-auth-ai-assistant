@@ -1,0 +1,11 @@
+Demo Flow:
+
+1. Run python main.py
+2. System starts face authentication
+3. After detecting face → authentication successful
+4. User types:
+   - open google
+   - open youtube
+   - what is the time
+5. System executes commands
+6. Type exit to stop

@@ -1,0 +1,19 @@
+end-to-end-ai-capstone/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+│
+├── auth/
+│   ├── __init__.py
+│   └── face_auth.py
+│
+├── dialog/
+│   ├── __init__.py
+│   └── rule_engine.py
+│
+├── executor/
+│   ├── __init__.py
+│   └── command_executor.py
+│
+└── demo_script.txt
